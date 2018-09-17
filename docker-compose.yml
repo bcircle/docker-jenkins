@@ -6,4 +6,4 @@ services:
       - 8080:8080
       - 50000:50000
     volumes:
-      - ./jenkins_home:/var/jenkins_home
+      - ${ROOT}/jenkins_home:/var/jenkins_home
