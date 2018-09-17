@@ -1,6 +1,5 @@
-# docker-jenkins
+# Jenkins
 
-### USAGE
-```
-docker-compose up
+```bash
+sh start-docker.sh
 ```
